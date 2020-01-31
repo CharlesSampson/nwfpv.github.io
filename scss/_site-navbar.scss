@@ -275,7 +275,7 @@
 			position: relative;
 			color: $gray-900;
 			&:hover {
-				color: $primary;
+				color: $blue;
 			}
 		}
 		li {
@@ -283,7 +283,7 @@
 			display: block;
 			.nav-link {
 				&.active {
-					color: $primary;
+					font-weight: bold;
 				}
 			}
 			// &.active {

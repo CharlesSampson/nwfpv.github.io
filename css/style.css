@@ -846,14 +846,14 @@ h1, h2, h3, h4, h5,
   color: #212529;
 }
 .site-mobile-menu .site-nav-wrap a:hover {
-  color: white;
+  color: #007bff;
 }
 .site-mobile-menu .site-nav-wrap li {
   position: relative;
   display: block;
 }
 .site-mobile-menu .site-nav-wrap li .nav-link.active {
-  color: white;
+  font-weight: bold;
 }
 .site-mobile-menu .site-nav-wrap .arrow-collapse {
   position: absolute;
